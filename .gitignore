@@ -1,5 +1,8 @@
 # Compiled class file
 *.class
+LeetCode.iml
+out
+*.idea
 
 # Log file
 *.log
